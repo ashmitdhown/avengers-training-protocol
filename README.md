@@ -19,7 +19,7 @@ The ATP system serves as a centralized hub to monitor physical performance, log 
 - **Styling:** Custom Vanilla CSS (No Tailwind) with a specialized HUD/Dark mode design system.
 - **Data Visualization:** Recharts
 - **Icons:** Lucide-React
-- **Database/Persistence:** Client-side HTML5 LocalStorage abstraction (`lib/storage.js`)
+
 
 ## Getting Started
 
@@ -55,4 +55,4 @@ To ensure immediate readiness for demo scenarios without relying on paid third-p
 - `lib/` - Internal operations, data schema abstractions, and the image analysis engine
 
 ---
-*Built for the ACM DEV Competition.*
+
